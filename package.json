@@ -1,0 +1,25 @@
+{
+  "name": "amartislab",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "svelte-kit dev",
+    "build": "svelte-kit build",
+    "package": "svelte-kit package",
+    "preview": "svelte-kit preview",
+    "prepare": "svelte-kit sync"
+  },
+  "devDependencies": {
+    "@sveltejs/adapter-auto": "next",
+    "@sveltejs/kit": "next",
+    "svelte": "^3.44.0"
+  },
+  "type": "module",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.1.1",
+    "@fortawesome/free-brands-svg-icons": "^6.1.1",
+    "@fortawesome/free-regular-svg-icons": "^6.1.1",
+    "@fortawesome/free-solid-svg-icons": "^6.1.1",
+    "bootstrap5": "^1.1.9",
+    "fontawesome-svelte": "^2.0.1"
+  }
+}
